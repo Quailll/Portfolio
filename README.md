@@ -9,7 +9,14 @@ Portfolio to document all my past work.
 
 ## Images
 
-- []
+- [alt text](/assets/images/IMG.png) I don't really have good pictures of me and this was the best one.
+- [alt text](/assets/images/img1.png) This is just a placeholder image until I have a better image to put there.
+- [alt text](/assets/images/screenshot1.png)[alt text](/assets/images/Screenshot2.png) These are both screenshots of the HTML and CSS.
+- [alt text](/assets/images/screenshot3.png) Just showing about me on page.
+- [alt text](/assets/images/screenshot4.png) Where my projects will go and contact info. The body didn't come out the way I wanted it to, but I will keep on working on it in the future and make it look better.
+
+- link to the page: https://quailll.github.io/Portfolio/
+
 ## Installation
 
 N/A
