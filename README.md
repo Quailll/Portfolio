@@ -9,7 +9,7 @@ Portfolio to document all my past work.
 
 ## Images
 
-- 
+- []
 ## Installation
 
 N/A
